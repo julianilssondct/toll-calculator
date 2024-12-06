@@ -1,3 +1,4 @@
+package Models;
 
 public interface Vehicle {
 

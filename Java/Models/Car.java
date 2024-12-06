@@ -1,3 +1,4 @@
+package Models;
 
 public class Car implements Vehicle {
   @Override
